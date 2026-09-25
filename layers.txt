@@ -1,5 +1,9 @@
 Bronze: raw data
 Silver: cleaned data
 Gold: business-ready aggregates
+<<<<<<< HEAD
 test layers
  test2
+=======
+hello shiva
+>>>>>>> add-gold-layer

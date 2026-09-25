@@ -11,3 +11,4 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+!sample_data/*.csv

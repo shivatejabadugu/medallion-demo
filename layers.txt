@@ -1,2 +1,3 @@
 Bronze: raw data
 Silver: cleaned data
+Gold: business-ready aggregates

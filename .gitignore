@@ -1,0 +1,13 @@
+# data files
+*.csv
+*.parquet
+data/
+
+# secrets
+.env
+*.key
+
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/

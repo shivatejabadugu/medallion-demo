@@ -1,0 +1,27 @@
+*   [33mfe02ae5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge add-gold-layer, resolve conflict in layers.txt
+[31m|[m[32m\[m  
+[31m|[m * [33mc316a9c[m shiva
+* [32m|[m [33m92360f8[m test
+[32m|[m[32m/[m  
+* [33mfb32efb[m Add gold layer description
+* [33m472731c[m Add layers.txt
+* [33maaeb213[m changes
+* [33me9efe95[m remove message.txt
+* [33maa4ec34[m add 2nd column
+* [33mcdbfce1[m Add sample employee data for testing
+* [33m099a868[m add 2nd column
+* [33m08f59de[m Add sample employee data for testing
+* [33mb79f2ad[m Add gitignore for data files and secrets
+* [33mc23bb6d[m modify pythonfile.py
+* [33m85445fe[m  added test message in message and welcome file
+* [33m8e7cb31[m Reapply "add second line"
+* [33m5496b91[m Revert "add second line"
+* [33m6c72a19[m add second line
+* [33mf1e5c5d[m add second line
+* [33m5907538[m add a file
+* [33m6585491[m add python file
+* [33mad9302e[m welcome file
+* [33mdc0b318[m Format README layers as a list
+* [33mb841f2b[m explain bronze and siliver layers in README
+* [33m5759d23[m Describe pipeline layers
+* [33mbb6231d[m Add README

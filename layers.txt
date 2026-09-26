@@ -1,3 +1,4 @@
 Bronze: raw data and JSON file
 Silver: cleaned with PySpark, deduplicated and validated
 Gold: business-ready aggregates
+platinum: ML-ready feature tables(optional layer)

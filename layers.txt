@@ -3,3 +3,4 @@ Silver: cleaned with PySpark, deduplicated and validated
 Gold: business-ready aggregates
 platinum: ML-ready feature tables(optional layer)
 Platinum layer is not part of the standard medallion pattern
+ADLS Gen2

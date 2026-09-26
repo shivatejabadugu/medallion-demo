@@ -3,3 +3,4 @@ trying to learn more
 try try until you die
 added new line 9/26/2026
 adding another new line on 9/26/2026
+test git add .

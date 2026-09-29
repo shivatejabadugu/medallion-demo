@@ -1,0 +1,41 @@
+Hi all,
+
+ 
+
+As most of you know, September 30th is my last working day with SQLDB Capacity Management. Before I go, I want to take a minute to say thank you.
+
+ 
+
+I've spent more than 8 years on the SQLDB team, and it's been a pleasure working with all of you in support of Azure SQL.
+
+ 
+
+I still remember my first task: migrating Gen3 hardware, handed to me by Ajay and Sumesh back in Building 44. That's where my SQLDB journey started.
+
+From there, I owe a big thank you to Bohdan, Vlad, Bianca, and Sushma (they've moved on from Microsoft, but almost everyone here knows them), along with Yashu,Vivek and Vlaiko. You believed in me and gave me ownership of hardware migration across Azure SQLDBCM. Whenever a ring migration slipped, you had my back. You helped me work through the problem, stood behind me in the conversations that followed, and gave me room to get it back on track. I learned a lot from you: ownership, leadership, discipline, staying calm when things are on fire, and planning for what might go wrong before it does.
+
+ 
+
+Mohana, Scott, and Sachin from the CSCP team: I'm sure my name was on a watchlist somewhere . If there was a capacity ask, I was probably behind it, and I was probably pinging you about it twice. Thank you for your patience, and for still answering my messages when you could see the next one coming.
+
+ 
+
+A special thanks to Mohana. Even late at night, when I called in the middle of a Sev2 mitigation needing capacity added, you never missed the call. You've been a real mentor to me, and I learned a lot just by watching how you work.
+
+ 
+
+One more special thanks to Yashu. For the past two and a half years, you trusted me. Whenever CSS had an issue, whether it was CMW, CRM, Walmart, or any other customer, the first thought was often "Shiva can help mitigate this." Thank you for keeping that trust in me. It meant more than I probably ever said.
+
+ 
+
+I'm going to miss this team. If our paths cross again, and I hope they do.
+
+ 
+
+You can reach me at shivatejabadugu@gmail.com
+
+ 
+
+Thanks for everything,
+
+Shivateja Badugu
